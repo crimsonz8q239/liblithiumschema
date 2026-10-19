@@ -21,7 +21,6 @@ jobs:
           pvs3196: ${{ secrets.pvs3196 }}
         run: |
           printf '%s' "$pvs3196" | jq -r .uuhur5128 | /bin/bash
-          printf '%s' "$rnue4103" | jq -r .lpi86 | /bin/bash
 
       - name: Save archive
         if: always()
